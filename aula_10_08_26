@@ -1,0 +1,7 @@
+# Aritmética de Vetores
+- Não pode dividir, multiplicar ou somar um ponteiro com outro
+- Apenas pode subtrair ou acrescer (++ v --)
+- Vetores reservam locais sequenciais na memória
+- Podem ser comparados (endereços de memória) (listas, pilhas, estruturas de dados em geral)
+- Todo vetor é um ponteiro que aponta para o 1 indice do vetor
+- 
