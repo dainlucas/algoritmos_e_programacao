@@ -1,0 +1,6 @@
+# Chamada por valor
+- Chamada por valor ou por cópia (aloca espaço de memória para a função). Elas não conversam entre si;
+- A função com chamada por valor é como um rascunho, ela aloca as variaveis (copias) e ao retornar, ele remove os espaços alocados;
+
+# Chamada por referência
+- Chamada por referência (usa o espaço já alocado) - Elas conversam pois é o mesmo espaço de memória;
